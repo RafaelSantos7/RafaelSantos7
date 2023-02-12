@@ -4,7 +4,7 @@
 - 📫 Voce pode entrar em contato comigo pelos meus meio de comunicação abaixo:
 -  Email rafaeldevsantos@gmail.com 
 -  Instagram @rafaelsantos.dev
--  Meu Portifólio https://rafaelsantosweb.netlify.app
+-  Meu Portifólio https://rafaelportifolio.netlify.app/
 -  Wpp 12 991900678
 
 <!---

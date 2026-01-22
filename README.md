@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Rafael Santos
+## Olá, eu sou Rafael Santos
 
 🐍 Desenvolvedor Python em formação  
 🚀 Focado em conquistar oportunidades como desenvolvedor Python  
@@ -16,7 +16,7 @@ Atualmente, estou focado em Python, criando projetos práticos e aprofundando me
 ### 📫 Contato
 
 - 📧 Email: rafaelsantosgoncalves5@gmail.com  
-- 📸 Instagram: @rafae_santosg_ 
+- 📸 Instagram: @rafael_santosg_ 
 - 🌐 Portfólio: https://rafaelsantosg.com.br/
 - 💬 WhatsApp: (12) 99190-0678
 

@@ -1,6 +1,6 @@
 ## Olá, eu sou Rafael Santos
 
-🐍 Desenvolvedor Python em formação  
+🐍 Desenvolvedor Python  
 🚀 Focado em conquistar oportunidades como desenvolvedor Python  
 📚 Estudando Python para desenvolvimento de sistemas, automações e back-end   
 
